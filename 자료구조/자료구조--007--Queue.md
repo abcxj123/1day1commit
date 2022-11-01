@@ -5,7 +5,8 @@
 ***
 ### Queue 주요 method
 - offer(n), add(n) : 데이터 n을 queue의 가장 뒤에 추가한다.
-- poll() : queue의 가장 앞에 있는 원소를 꺼낸다.
+- poll(), remove() : queue의 가장 앞에 있는 원소를 꺼낸다.
+- remove(n) : queue에 들어있는 n 중 가장 앞에 있는 n을 꺼낸다.
 - peek() : queue의 가장 앞에 있는 원소를 확인하여 return한다.
 - isEmpty() : queue가 비어있는지 여부를 확인한다. 비어있으면 true, 아니면 false를 return한다.
 - size() : queue에 들어있는 데이터의 개수를 return한다.
