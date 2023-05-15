@@ -3,7 +3,6 @@
 
 ### 해시 함수
 - 해시 함수(Hash Function)란 임의의 데이터를 **고정된 길이의 해시 값**으로 매핑하는 함수를 의미한다.
-![image](https://github.com/abcxj123/1day1commit/assets/99263360/67cdaae0-f8bb-42dc-99e2-9ee80a5c6534)
 
 ### 해시 함수의 특성
 - 해시함수는 단방향 함수이므로 원래 데이터로 복구하는 것이 불가능하다.
